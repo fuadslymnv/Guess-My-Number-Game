@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
     marginHorizontal: 24,
     backgroundColor: "#54062d",
     borderRadius: 8,
-    elevation: 8,
+    elevation: 7,
   },
 
   numberInput: {
