@@ -20,8 +20,6 @@ function StartGameScreen() {
         { text: "Okay", style: "default", onPress: resetInputHandler },
       ]);
     }
-
-    console.log("valid");
   }
 
   return (
