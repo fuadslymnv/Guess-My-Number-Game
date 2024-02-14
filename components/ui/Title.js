@@ -7,9 +7,9 @@ function Title({ children }) {
 const styles = StyleSheet.create({
   title: {
     borderWidth: 2,
-    borderColor: "#ddb52f",
+    borderColor: "white",
     padding: 12,
-    color: "#e33e01",
+    color: "white",
     textAlign: "center",
     fontWeight: "bold",
     fontSize: 24,
