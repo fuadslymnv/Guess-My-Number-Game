@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
   buttonText: {
     color: "#ffffff",
     textAlign: "center",
-    fontSize: 16,
+    fontSize: 18,
   },
   pressed: {
     // for ios
