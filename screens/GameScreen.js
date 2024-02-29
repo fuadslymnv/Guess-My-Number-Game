@@ -104,7 +104,7 @@ function GameScreen({ userNumber, onGameOver }) {
 const styles = StyleSheet.create({
   screen: {
     flex: 1,
-    padding: 28,
+    padding: 27,
     marginTop: 100,
   },
   buttonsContainer: {
